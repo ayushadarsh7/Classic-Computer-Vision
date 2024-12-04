@@ -14,4 +14,3 @@ Region Growing, Graph-Cut, Mean-Shift, MRFs
 
 * Dimensionality Reduction: dimensionality reduction and feature extraction: PCA, LDA        
   
-* Deep Learning for CV: What does a CNN learn .tweaking the multilayer conv neural net at different layers to figure out which layer is learning which feature
