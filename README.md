@@ -9,7 +9,7 @@ The topics offer a comprehensive understanding of **CV fundamentals**.
 
 ## **Repository Structure**
 
-The repository contains **7 Jupyter Notebooks**, each dedicated to a specific topic. The topics and their contents are as follows:
+The repository contains **6 Jupyter Notebooks**, each dedicated to a specific topic. The topics and their contents are as follows:
 
 ### 1. **Convolution Basics**
 ```1_Convolution_Basics.ipynb```
