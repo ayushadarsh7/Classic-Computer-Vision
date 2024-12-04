@@ -12,7 +12,7 @@ Edges - Canny, LOG, DOG; Line detectors (Hough Transform), Corners - Harris and 
 *comp vision techniques3 Image Segmentation
 Region Growing, Edge Based approaches to segmentation, Graph-Cut, Mean-Shift, MRFs, Texture Segmentation; Object detection
 
-* Modern Computer Vison: dimensionality reduction and feature extraction: PCA, LDA         2. ML Methods:  K-means, SVM with RBF kernel, k-NN,
+* Dimensionality Reduction: dimensionality reduction and feature extraction: PCA, LDA        
   
 
 * Deep Learning for CV1: basic python and math for deep learning( python lists + backpropagation + coding activation functions)
