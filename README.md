@@ -1,4 +1,4 @@
-# **Computer Vision Techniques and Dimensionality Reduction**
+# **Classic Computer Vision Techniques**
 
 ## **Repository Overview**
 
