@@ -64,8 +64,6 @@ The following Python libraries are used across the notebooks:
 - `opencv-python`
 - `scipy`
 - `PIL`
-- `tensorflow`
-- `keras`
 - `scikit-image`
 
 
