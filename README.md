@@ -42,7 +42,7 @@ The repository contains **Jupyter Notebooks**, each dedicated to a specific topi
 * Introduction to image segmentation techniques such as Region Growing, Graph-Cut, Mean-Shift, and Markov Random Fields (MRFs).
   
 
-### 6. **Dimensionality Reduction **
+### 6. **Dimensionality Reduction**
 ```6_Dimensionality_Reduction.ipynb```
 
 * Applying PCA and LDA to reduce the dimensionality of images
