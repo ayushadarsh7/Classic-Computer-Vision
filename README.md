@@ -9,7 +9,7 @@ The topics offer a comprehensive understanding of **CV fundamentals**.
 
 ## **Repository Structure**
 
-The repository contains **6 Jupyter Notebooks**, each dedicated to a specific topic. The topics and their contents are as follows:
+The repository contains **Jupyter Notebooks**, each dedicated to a specific topic. The topics and their contents are as follows:
 
 ### 1. **Convolution Basics**
 ```1_Convolution_Basics.ipynb```
@@ -45,7 +45,11 @@ The repository contains **6 Jupyter Notebooks**, each dedicated to a specific to
 ### 6. **Dimensionality Reduction **
 ```6_Dimensionality_Reduction.ipynb```
 
-* Applying PCA and LDA to reduce the dimensionality of images 
+* Applying PCA and LDA to reduce the dimensionality of images
+
+### 7. **Super Resolution**
+```7_Super_Resolution.ipynb ```
+* Fundamental Super Resolution techniques
 
 
 
