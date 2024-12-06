@@ -34,7 +34,7 @@ The repository contains **Jupyter Notebooks**, each dedicated to a specific topi
 
 ### 4. **Computer Vision Techniques 2**
 ```4_Computer_Vision_Techniques_part_2.ipynb```
-*  Detailed exploration of various edge detection algorithms (Canny, LoG, DoG), and feature extraction methods like SIFT, SURF, HOG, and GLOH.
+*  Detailed exploration of various edge detection algorithms (Canny, LoG, DoG), and corner detection method SIFT.
 
 
 ### 5. **Computer Vision Techniques 3**
