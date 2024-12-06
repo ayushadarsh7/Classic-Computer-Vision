@@ -7,6 +7,13 @@ This repository contains a collection of Jupyter Notebooks that cover key topics
 
 The topics offer a comprehensive understanding of **CV fundamentals**.
 
+## How to use for learning?
+* clone the repo
+* follow the sequence of notebooks from 1 to 7
+* each notebook has theory and code implementation of particular topics in python
+* Theory has Mathematics and Logic behind each technique and code has its implementation
+* The image used in notebooks as an example is ```Cat.jpg``` present in the repo itself.
+
 ## **Repository Structure**
 
 The repository contains **Jupyter Notebooks**, each dedicated to a specific topic. The topics and their contents are as follows:
