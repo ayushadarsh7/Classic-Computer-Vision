@@ -25,7 +25,7 @@ The repository contains **Jupyter Notebooks**, each dedicated to a specific topi
 
 ### 2. **Introduction to Kernels**
 ```2_Feature_Detection_using_Kernels.ipynb```
-   - Understanding different kernels (filters) like Sobel, Prewitt, and Laplacian to detect edges, corners, and textures in images.
+   - Understanding different kernels (filters) like Sobel, Gaussian, and Laplacian to detect edges, corners, and textures in images.
   
 
 ### 3. **Computer Vision Techniques 1**
